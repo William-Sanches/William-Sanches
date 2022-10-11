@@ -50,18 +50,19 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/kbcinhaxd/)
 
+<details>
+<summary>More stats</summary>
 
-<!--### Sobre mim:
+<div align="center">
+  
+<br>
+  
+![](https://github-readme-stats.vercel.app/api?username=William-Sanches&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true)
+   <br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=William-Sanches&theme=chartreuse-dark&hide_border=true)
+   <br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=William-Sanches&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-* ☕ Dev Java Full Stack
-* 📖 Estudante SoulCode Academy
-* 🖥️ I continue learning...
+</details>
 
-
-##
-
-<div align="right">
-<img height="330" width="330" src="https://media3.giphy.com/media/Kd5uWrNKjhRGfopdHJ/giphy.gif?cid=ecf05e476vvwxt41dyapn6tyvukshwr78a2557inqvk8nrkp&rid=giphy.gif&ct=g">
-<p align="right">
-"If my armor breaks, I'll fuse it back together."</p>
-<div>-->
+<br>
