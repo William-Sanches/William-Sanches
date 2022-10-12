@@ -1,6 +1,6 @@
 <h1 align ="center">Prazer, William. :sunglasses: </h1>
 
-<p align="center">When you fell you're alone, cut off from this cruel world... your instincts telling you to run... Listen to your heart, those angel voices, they'll see to you, they'll be your guide back home.</p>
+<p align="center">Hello there 👋, my name is William, and I'm a Java developer, trying to build a better future.</p>
 
 <div align="center">
    <img height="380" width ="380" align="right" src="https://i.pinimg.com/originals/29/5d/ba/295dba78f8e4148215611aab4e03f93a.gif">
