@@ -9,7 +9,7 @@
 <h2>About</h2>
 <div align="left" style="display: inline_block">
    <li>☕ Dev Java Full Stack</li>
-   <li>📖 Estudante SoulCode Academy</li>
+   <li>📖 SoulCode Academy student</li>
    <li>🖥️ I continue learning...</li>
   
 ## Skills
